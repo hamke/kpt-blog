@@ -3,8 +3,8 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>MoneySkillTalk Blog</title>
-    <link>https://blog.moneyskilltalk.com/</link>
+    <title>K-Pop Talk Blog</title>
+    <link>https://blog.kpoptalk.com/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Learn how to make the most of your money skill here.</description>
@@ -13,8 +13,8 @@
     
     <item>
       <title>blank</title>
-      <link>https://blog.moneyskilltalk.com/blank/</link>
-      <guid>https://blog.moneyskilltalk.com/blank/</guid>
+      <link>https://blog.kpoptalk.com/blank/</link>
+      <guid>https://blog.kpoptalk.com/blank/</guid>
       <pubDate>Thu, 01 May 2025 03:01:00 GMT</pubDate>
       <description>
       
@@ -29,7 +29,7 @@
       
       <content:encoded><![CDATA[<script type="text/javascript">    window.location.href = '/';</script>]]></content:encoded>
       
-      <comments>https://blog.moneyskilltalk.com/blank/#disqus_thread</comments>
+      <comments>https://blog.kpoptalk.com/blank/#disqus_thread</comments>
     </item>
     
   </channel>
